@@ -1,18 +1,20 @@
 1. Working with the following sets of integers `S= {0,1,2,3,4,5,6}`
 
 - What is
-  a) 4 + 4 = `2`
-  b) 3 \* 5 = `2`
-  c) What is the inverse of 3 = `2`
+  - [x] 4 + 4 = `2`
+  - [x] 3 \* 5 = `2`
+  - [x] What is the inverse of 3 = `2`
 
 2. For `S={0,1,2,3,4,5,6}` Can we consider `S` and the operation `+` as a group? Why or why not? `No`
 
 3. What is -13 mod 5? `3`
 
-4. Polynomials, For the polynomial ``x^3- x^2 + 4x - 12`, Find,
+4. Polynomials, For the polynomial `x^3^ - x^2^ + 4x - 12`, Find,
 
-- the positve roots? = `2, 3`
-- What is the degree of this polynomial? = `3`
+- [x] the positve roots? = `2, 3`
+- [x] What is the degree of this polynomial? = `3`
+
+---
 
 ### USE CASES
 
