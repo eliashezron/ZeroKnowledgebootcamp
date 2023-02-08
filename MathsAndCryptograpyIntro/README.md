@@ -3,7 +3,7 @@
 - What is
   - [x] 4 + 4 = `1`
   - [x] 3 \* 5 = `1`
-  - [x] What is the inverse of 3 = `2`
+  - [x] What is the inverse of 3 = `5`
 
 2. For `S={0,1,2,3,4,5,6}` Can we consider `S` and the operation `+` as a group? Why or why not? `Yes`
 
