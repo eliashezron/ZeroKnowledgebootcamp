@@ -7,7 +7,7 @@
 
 2. For `S={0,1,2,3,4,5,6}` Can we consider `S` and the operation `+` as a group? Why or why not? `No`
 
-3. What is -13 mod 5? `3`
+3. What is -13 mod 5? `2`
 
 4. Polynomials, For the polynomial `x^3^ - x^2^ + 4x - 12`, Find,
 
