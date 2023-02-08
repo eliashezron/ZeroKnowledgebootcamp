@@ -25,7 +25,7 @@
 
 4. Polynomials, For the polynomial `x^3^ - x^2^ + 4x - 12`, Find,
 
-- [x] the positve roots? = `4`
+- [x] the positve roots? = `-2` and `6`
 - [x] What is the degree of this polynomial? = `3`
 
 ---
